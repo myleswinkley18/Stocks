@@ -1,4 +1,4 @@
-package Analysis.Stocks;
+package Medmyne.Stocks;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

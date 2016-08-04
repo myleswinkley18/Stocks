@@ -1,4 +1,4 @@
-package Analysis.Stocks;
+package Medmyne.Stocks;
 
 /**
  * Hello world!
